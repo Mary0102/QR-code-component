@@ -29,6 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 
-### What I learned of new
+### What I learned
 
 I learned more about margins and design responsive
